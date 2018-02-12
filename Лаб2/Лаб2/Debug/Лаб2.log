@@ -1,0 +1,6 @@
+﻿  Лаб2.cpp
+c:\users\mogiv\source\repos\лаб2\лаб2\лаб2.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\mogiv\source\repos\лаб2\лаб2\лаб2.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\mogiv\source\repos\лаб2\лаб2\лаб2.cpp(2): note: использование предварительно скомпилированного заголовка
+c:\users\mogiv\source\repos\лаб2\лаб2\лаб2.cpp(12): warning C4101: tmp: неиспользованная локальная переменная
+  Лаб2.vcxproj -> C:\Users\mogiv\source\repos\Лаб2\Debug\Лаб2.exe
